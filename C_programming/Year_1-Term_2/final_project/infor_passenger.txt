@@ -1,0 +1,5 @@
+12, 10, 2024, 3438, Panha Sovan, 0972716722, Mini Bus, 5:30 -> 11:00 (5h30mn), Phnom Penh, Siem Reap, A1 , 15.25, 15.25
+3, 10, 2024, 5864, Panha Sovan, 0972716722, Mini Bus, 7:30 -> 13:30 (6h00mn), Siem Reap, Phnom Penh, A1 A2 , 15.25, 30.50
+4, 9, 2024, 8137, Panha Sovan, 0972716722, Luxury Bus, 5:30 -> 11:00 (5h30mn), Phnom Penh, Siem Reap, B1 B2 , 15.25, 30.50
+5, 6, 2024, 8807, Panha Sovan, 0972716722, Luxury Bus, 7:30 -> 13:30 (6h00mn), Phnom Penh, Siem Reap, A1 A2 , 15.25, 30.50
+12, 12, 2024, 766, Rith Keng, 016336915, Luxury Bus, 7:30 -> 13:30 (6h00mn), Siem Reap, Phnom Penh, A1 A2 , 15.25, 30.50
